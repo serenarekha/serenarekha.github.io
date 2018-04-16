@@ -1,0 +1,113 @@
+body { background-color:brown;
+       font-family:Arial, Verdana, sans-serif;
+		}
+
+
+header { background-color:brown;   
+       color:black;
+       font-family: "Roboto" "Times New Roman", serif;
+	}
+	
+	
+.main-nav {
+	float: center;
+	list-style: none;
+	margin-top: 5px;
+}
+
+.main-nav li{
+	display: inline-block
+}
+
+.main-nav li a{
+	color: white;
+	text-decoration: none;
+	padding: 5px 30px;
+	font-family: "Roboto", sans-serif;
+	font-size: 15px;
+}
+
+.main-nav li a:hover{
+	border: 5px solid black;
+	background-color: darkorange;
+	transition: all 0.4s ease-in;
+}
+
+
+.jinjang-img 
+{	width: 800px;
+	height: auto;
+	float: right;
+}
+
+footer { font-style: italic;
+         font-size: 15px; 
+		 border-top: thin solid #white;
+         padding-top: auto;
+         color: white;
+}
+
+
+
+body
+{
+	font-family: monospace;
+}
+
+
+main 
+{background-image : childrenphoto.jpg;
+background-position : centre}
+	
+h1{
+	color: black;
+	font-size: 30px;
+	text-align: left;
+	margin-top: 50px;
+}
+
+h3{
+	color: black;
+	font-size: 20px;
+	text-align: left;
+	margin-top: 50px;
+}
+
+h4 { 
+	color: black;
+	font-size: 20px;
+	font-style: underline;
+margin-top: 50px;}
+
+.picture1 img
+{	width: 500px;
+	height: auto;
+	float: left;
+}
+
+p { font-size: 17px;
+	font-family: "Palatino Linotype", sans-serif;
+	color: black;
+	text-align:justify;}
+	
+p2 { 	font-size: 17px;
+		font-family: "Palatino Linotype", sans-serif;
+		text-align:right;}
+
+p3 { 	font-size: 17px;
+		font-family: "Palatino Linotype", sans-serif;
+		text-align:right;}
+
+form { 	font-size: 17px;
+		font-family: "Palatino Linotype", sans-serif;
+		padding: 5px ;} 
+
+fieldset { display: inline-block;}
+
+.pic6-img
+{
+	margin-left:auto;
+	margin-right:auto;
+	width: 50%;
+	display: block;
+}
